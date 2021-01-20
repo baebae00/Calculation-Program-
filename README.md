@@ -1,5 +1,5 @@
-# Calculation-Program-
-### A calculation program that performs addition, subtraction, and multiplication. 
+# Calculation-Program
+### A calculation program that performs addition, subtraction, and multiplication & time during using that program & true or false
 
 ```python
 import time
